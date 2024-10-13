@@ -1,0 +1,7 @@
+height_in_meter = 1.65
+weight = 62
+bmi = weight / height_in_meter ** 2
+print(bmi)
+print(int(bmi))
+print(round(bmi))
+print(round(bmi , 2))
